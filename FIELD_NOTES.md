@@ -21,7 +21,7 @@ External content can contain instructions designed to override the system operat
 
 ## Success measure
 
-Boundary-aware parsing, injection fixtures, risk signals, safe extraction, and fail-closed handling.
+Unicode-normalized pattern detection, documented risk signals, quarantined flagged text, and fail-closed handling for the tested fixture families.
 
 ## Handoff
 
